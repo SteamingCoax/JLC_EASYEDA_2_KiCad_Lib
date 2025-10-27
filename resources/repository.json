@@ -23,7 +23,7 @@
     },
     "packages": [
         {
-            "url": "https://raw.githubusercontent.com/SteamingCoax/JLC_EASYEDA_2_KiCad_Lib/main/plugin/metadata.json"
+            "metadata_url": "https://raw.githubusercontent.com/SteamingCoax/JLC_EASYEDA_2_KiCad_Lib/main/plugin/metadata.json"
         }
     ]
 }
