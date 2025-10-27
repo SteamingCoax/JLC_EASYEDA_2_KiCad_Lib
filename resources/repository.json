@@ -1,9 +1,9 @@
 {
     "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
-    "name": "JLC_EASYEDA_2_KICAD_LIB Repository",
-    "description": "Repository for JLC/EasyEDA to KiCad converter plugin",
-    "description_full": "This repository contains a plugin for converting JLC/EasyEDA components to KiCad format, including symbols, footprints, and 3D models.",
-    "identifier": "jlc-easyeda-2-kicad-lib-repo",
+    "name": "EasyEDA to KiCad Converter Repository",
+    "description": "Repository for EasyEDA to KiCad converter plugin",
+    "description_full": "This repository contains a plugin for converting EasyEDA components to KiCad format, including symbols, footprints, and 3D models.",
+    "identifier": "easyeda-to-kicad-converter-repo",
     "type": "plugin",
     "author": {
         "name": "Robert Cecere",
