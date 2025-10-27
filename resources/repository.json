@@ -23,7 +23,18 @@
     },
     "packages": [
         {
-            "metadata_url": "https://raw.githubusercontent.com/SteamingCoax/JLC_EASYEDA_2_KiCad_Lib/main/plugin/metadata.json"
+            "type": "plugin",
+            "identifier": "easyeda-to-kicad-converter",
+            "name": "EasyEDA to KiCad Converter",
+            "description": "Convert EasyEDA components to KiCad format",
+            "metadata_url": "https://raw.githubusercontent.com/SteamingCoax/JLC_EASYEDA_2_KiCad_Lib/main/plugin/metadata.json",
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "status": "stable",
+                    "kicad_version": "6.0"
+                }
+            ]
         }
     ]
 }
