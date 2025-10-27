@@ -21,29 +21,9 @@
     "resources": {
         "github": "https://github.com/SteamingCoax/JLC_EASYEDA_2_KiCad_Lib"
     },
-    "versions": [
+    "packages": [
         {
-            "version": "1.0.0",
-            "status": "stable",
-            "kicad_version": "6.0"
+            "url": "https://raw.githubusercontent.com/SteamingCoax/JLC_EASYEDA_2_KiCad_Lib/main/plugin/metadata.json"
         }
-    ],
-    "packages": {
-        "repositories": [
-            {
-                "download_sha256": "55e34557af635cb85888835940b841c88a1eaf0264c5c266ea31d382dc1627b1",
-                "download_size": 3407,
-                "download_url": "https://github.com/TousstNicolas/EasyEDA2KiCad/releases/download/v1.0.0/easyeda2kicad_v1.0.0.zip",
-                "install_size": 3407,
-                "versions": [
-                    {
-                        "version": "1.0.0",
-                        "status": "stable",
-                        "kicad_version": "6.0"
-                    }
-                ],
-                "versions_url": "https://raw.githubusercontent.com/TousstNicolas/JLC2KiCad/master/plugin/metadata.json"
-            }
-        ]
-    }
+    ]
 }
