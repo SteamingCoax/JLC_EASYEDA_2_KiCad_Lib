@@ -1,0 +1,37 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "EasyEDA to KiCad Converter",
+    "description": "Convert EasyEDA components to KiCad format",
+    "description_full": "A plugin to convert EasyEDA components to KiCad format, including footprints, symbols, and 3D models.",
+    "identifier": "com.github.toussnicolas.easyeda2kicad",
+    "type": "plugin",
+    "author": {
+        "name": "Robert Cecere",
+        "contact": {
+            "github": "https://github.com/TousstNicolas"
+        }
+    },
+    "maintainer": {
+        "name": "Robert Cecere",
+        "contact": {
+            "github": "https://github.com/TousstNicolas"
+        }
+    },
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://github.com/TousstNicolas/JLC2KiCad"
+    },
+    "versions": [
+        {
+            "version": "1.0.0",
+            "status": "stable",
+            "kicad_version": "6.0"
+        }
+    ],
+    "tags": [
+        "library",
+        "conversion",
+        "lcsc",
+        "easyeda"
+    ]
+}

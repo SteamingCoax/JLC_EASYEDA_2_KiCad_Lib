@@ -1,0 +1,2 @@
+easyeda2kicad
+py2app

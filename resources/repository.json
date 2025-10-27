@@ -1,0 +1,49 @@
+{
+    "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+    "name": "EasyEDA to KiCad Plugin Repository",
+    "description": "Repository for EasyEDA to KiCad converter plugin",
+    "description_full": "This repository contains a plugin for converting EasyEDA components to KiCad format, including symbols, footprints, and 3D models.",
+    "identifier": "com.github.toussnicolas.easyeda2kicad.repo",
+    "type": "plugin",
+    "author": {
+        "name": "Robert Cecere",
+        "contact": {
+            "github": "https://github.com/TousstNicolas"
+        }
+    },
+    "maintainer": {
+        "name": "Robert Cecere",
+        "contact": {
+            "github": "https://github.com/TousstNicolas"
+        }
+    },
+    "license": "MIT",
+    "resources": {
+        "github": "https://github.com/TousstNicolas/JLC2KiCad"
+    },
+    "versions": [
+        {
+            "version": "1.0.0",
+            "status": "stable",
+            "kicad_version": "6.0"
+        }
+    ],
+    "packages": {
+        "repositories": [
+            {
+                "download_sha256": "55e34557af635cb85888835940b841c88a1eaf0264c5c266ea31d382dc1627b1",
+                "download_size": 3407,
+                "download_url": "https://github.com/TousstNicolas/EasyEDA2KiCad/releases/download/v1.0.0/easyeda2kicad_v1.0.0.zip",
+                "install_size": 3407,
+                "versions": [
+                    {
+                        "version": "1.0.0",
+                        "status": "stable",
+                        "kicad_version": "6.0"
+                    }
+                ],
+                "versions_url": "https://raw.githubusercontent.com/TousstNicolas/JLC2KiCad/master/plugin/metadata.json"
+            }
+        ]
+    }
+}

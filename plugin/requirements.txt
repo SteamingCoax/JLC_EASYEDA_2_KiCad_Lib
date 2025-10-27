@@ -1,0 +1,2 @@
+wxPython>=4.2.0
+easyeda2kicad>=2.0.0
